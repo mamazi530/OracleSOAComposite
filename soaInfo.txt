@@ -1,0 +1,7 @@
+host=http://hostIp:port(default is 9073)
+path=/u01/data/exportComposite/exportJars/
+username=userName(default is weblogic)
+pwd=password
+partition=dev
+configplan=
+overwrite=true
