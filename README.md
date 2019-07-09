@@ -5,7 +5,7 @@ The Script to export and import SOA Composites (writed by python)
 1. soaInfo used as a config file with the info login SOA server.
 2. do not modify the dirs structure.
 
-##Usage
+## Usage
 1.import all file to the vm under /u01/data/exportComposite
 2.Change the soaInfo to your SOA server info
 3.Change the listComposites to your SOA server info
